@@ -1,0 +1,6 @@
+[submodule "SInject"]
+	path = SInject
+	url = https://github.com/nbasakuragi/SInject
+[submodule "Grapple"]
+	path = Grapple
+	url = https://github.com/nbasakuragi/Grapple
